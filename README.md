@@ -5,6 +5,7 @@
 **HIGH DEMAND NEEDED TO PROJECT BE FULLY DONE**<br />
 Quantum is made with JavaScript and TypeScript <br />
 The name Quantum is inspired by Quantum Computer which also is the reason its called Quantum <br />
+if you need/want the background logo of C/C++ you can download it, in the **Packages** section
 
 # How to get started
   you have your index or i__ <br />
