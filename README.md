@@ -9,7 +9,9 @@ The name Quantum is inspired by Quantum Computer which also is the reason its ca
 # How to get started
   you have your index or i__ <br />
   start by typing @i quadio.q which <br />
-  will give you the rest of the code <br />
+  will give you the rest of the code. <br />
+  You can combine the codes together and use it  <br />
+  in DevTool. (inspect)
 
 # How to program in Quantum
   qua:out >> text, will print out the text after the '>' <br />
