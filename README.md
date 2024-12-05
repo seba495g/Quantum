@@ -7,9 +7,9 @@ Under this text, you can **get started** learn **how to program** in Quantum, an
 Quantum is made with JavaScript and TypeScript <br />
 Quantum originaly would've been a tool for Chromebooks <br />
 The name Quantum is inspired by Quantum Computer which also is the reason its called Quantum <br />
-if you need/want the background logo of C/C++ you can download it, in the **Packages** section <br />
-Quantum is not accosiated with C/C++ its inspired by C/C++ <br />
-Quantum++ and Quantum# may come if the files are too long/too many <br />
+if you need/want the background logo of C/C++, you can download it in the **Packages** section <br />
+Quantum is not accosiated with C/C++, its inspired by C/C++ <br />
+Quantum++ or Quantum# may come if the files get too long/too many <br />
 
 # 🚀How to get started
   you have your index or i__ <br />
