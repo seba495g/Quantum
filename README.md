@@ -17,4 +17,4 @@ The name Quantum is inspired by Quantum Computer which also is the reason its ca
 
 
 # 📂Packages
- [Q. Ver1.0.0-dev](https://github.com/seba495g/Quantum/releases/tag/Quantum%2Fv1.0.0) <br />
+ [Ver1.0.0-dev](https://github.com/seba495g/Quantum/releases/tag/Quantum%2Fv1.0.0) <br />
