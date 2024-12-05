@@ -15,7 +15,7 @@ Quantum++ and Quantum# may come if the files are too long/too many <br />
   you have your index or i__ <br />
   start by typing *@i quadio.q* which <br />
   will give you the rest of the code. <br />
-  You can combine the codes together and use it  <br />
+   <br />
   in DevTool. (inspect)
 
 # How to program in Quantum
