@@ -1,5 +1,4 @@
-while (true){
-    if(run==true){
+
         let variables = {}; // Variable storage
         if(i__.includes("qua:out >> ")){console.log(i__.split("qua:in >> ")[1].trim());}
         /*
@@ -52,8 +51,4 @@ while (true){
                 console.error(`Error processing output: ${error.message}`);
             }
         }
-        alert("worked")
-        run=false
-    }
-}
 export { handleOutput, parseVariable, variables };
