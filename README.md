@@ -1,7 +1,7 @@
 ![392877068-bad65f32-c9fa-48f6-a669-a59897a00e2c__1_-removebg-preview](https://github.com/user-attachments/assets/c2f7215d-9ce4-40ce-9190-ffd018e3a316)
 
 # 
-❗**HIGH DEMAND NEEDED FOR THE PROJECT BE FULLY DONE**❗<br />
+❗**HIGH DEMAND NEEDED FOR THE PROJECT TO BE FULLY DONE**❗<br />
 Under this text, you can **get started** learn **how to program** in Quantum, and download the source. <br />
 click [here](https://github.com/seba495g/Quantum#packages) to download the source <br />
 Quantum is made with JavaScript and TypeScript <br />
