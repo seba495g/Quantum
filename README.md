@@ -3,7 +3,8 @@
 
 # 
 ❗**HIGH DEMAND NEEDED FOR THE PROJECT BE FULLY DONE**❗<br />
-Under this text, you can **get started** learn **how to program** in Quantum, and download the source.
+Under this text, you can **get started** learn **how to program** in Quantum, and download the source. <br />
+click [here](https://github.com/seba495g/Quantum#packages) to download the source <br />
 Quantum is made with JavaScript and TypeScript <br />
 Quantum originaly would've been a tool for Chromebooks <br />
 The name Quantum is inspired by Quantum Computer which also is the reason its called Quantum <br />
