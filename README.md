@@ -1,6 +1,4 @@
-![392877068-bad65f32-c9fa-48f6-a669-a59897a00e2c (1)](https://github.com/user-attachments/assets/9dd0d22b-2575-414e-b54f-199d084e137a)
-
-
+![392877068-bad65f32-c9fa-48f6-a669-a59897a00e2c__1_-removebg-preview](https://github.com/user-attachments/assets/c2f7215d-9ce4-40ce-9190-ffd018e3a316)
 
 # 
 ❗**HIGH DEMAND NEEDED FOR THE PROJECT BE FULLY DONE**❗<br />
