@@ -3,19 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quntum Compiler</title>
+  <title>Quantum Code Execution</title>
+  <!-- Link to external JavaScript module -->
+  <script src="qua.js" type="module"></script>
+  <script src="quadio.js" type="module"></script>
+  <script src="quacode.js" type="module"></script>
 </head>
 <body>
-    <br><br><br>
-    <center><h1>how to compile Quantum</h1></center>
-    <center><h2>Press Ctrl+Shift+i, go to console</h2></center>
-    <center><h2>copy this text: i__=`
-                                    `
-    </h2>
-    </center>
-    <center><h2>have fun coding</h2></center>
-    <script src="qua.js"></script>
-    <script src="quacode.js"></script>
-    <script src="quadio.js"></script>
+  <h1>Text Input Example for Quantum Code</h1>
+
+  <!-- Text input bar and button -->
+  <input type="text" id="compile" placeholder="Type quantum code here">
+  <button onclick="run()">Run Quantum Code</button>
+
+  <p id="output"></p>
 </body>
 </html>
