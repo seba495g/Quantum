@@ -23,5 +23,5 @@ Quantum++ or Quantum# may come if the files get too long/too many <br />
 
 
 # 📂Packages
- # [Ver1.0.0-dev](https://github.com/seba495g/Quantum/releases/tag/Quantum%2Fv1.0.0) <br />
- # [Quantum/Logo](https://github.com/seba495g/Quantum/releases/tag/Quantum%2Fbackground_-logo)
+ • [Ver1.0.0-dev](https://github.com/seba495g/Quantum/releases/tag/Quantum%2Fv1.0.0) <br />
+ • [Quantum/Logo](https://github.com/seba495g/Quantum/releases/tag/Quantum%2Fbackground_-logo)
