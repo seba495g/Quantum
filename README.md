@@ -13,15 +13,25 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
  The name Quantum is inspired by Quantum Computer which also is the reason its called Quantum <br />
  Quantum++ or Quantum# may come if the files get too long/too many <br />
  Quantum is not accosiated with C/C++, its inspired by C/C++ <br />
- 
-# 🚀How to get started
-  you have your index or i__ <br />
-  start by typing *@i quadio.q* which <br />
-  makes coding possible, think like <stdio.h>. <br />
 
-# ⌨️How to program in Quantum
-  qua:out >> text, will print out the text after the '>' <br />
-  qua:in >> text, it will create a input with the text after the '>' <br />
+# 📜Contributor(s)
+ seba495g (github)<br />
+
+# ❔ Help
+
+  # How to program
+   you have your index or i__ <br />
+   start by typing *@i quadio.q* which <br />
+   makes coding possible, think like <stdio.h>. <br />
+   qua:out >> text, will print out the text after the '>' <br />
+   qua:in >> text, it will create a input with the text after the '>' <br />
+   
+  # How to setup
+   get a JavaScript compiler<br />
+   i guess<br />
+   
+  # How to use
+   i__ is your coding space <br />
 
 
 # 📂Packages
