@@ -25,6 +25,7 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
    makes coding possible, think like <stdio.h>. <br />
    qua:out >> text, will print out the text after the '>' <br />
    qua:in >> text, it will create a input with the text after the '>' <br />
+   webopen >> text, it will open a new tab with the url after the '>', remember https:// <br />
    
   # How to setup
    you dont need a JavaScript compiler or anything<br />
