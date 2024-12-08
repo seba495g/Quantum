@@ -21,7 +21,7 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
 
 # ❔ Help
 
-  # How to program
+   **How to program**<br />
    you have your coding space at quantum's compiler, <br />
    start by typing *&gitport quaio.qh* which <br />
    makes coding possible, think like <stdio.h>. <br />
@@ -29,13 +29,13 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
    qua:in >> text, it will create a input with the text after the '>' <br />
    webopen >> text, it will open a new tab with the url after the '>', remember https:// <br />
    
-  # How to setup
+   **How to setup**<br />
    you dont need a JavaScript compiler or anything<br />
    you can just use [Quantum's compiler](https://seba495g.github.io/Quantum-Web/compiler.html)<br />
    
-  # How to use
+  **How to use**<br />
    Go to the official website, go to <br />
-compiler, and code there
+  compiler, and code there
 
 
 # 📂Packages
