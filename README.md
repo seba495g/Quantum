@@ -3,7 +3,7 @@
 # 
 ❗**HIGH DEMAND NEEDED FOR THE PROJECT TO BE FULLY DONE**❗<br />
 Under this text, you can **get started** learn **how to program** in Quantum, and download the source. <br />
-click [here](https://github.com/seba495g/Quantum#packages) to download the source <br />
+click [here](https://seba495g.github.io/Quantum-Web/download.html) to download the source <br />
 Quantum is made with JavaScript and TypeScript <br />
 Quantum originaly would've been a tool for Chromebooks <br />
 if you need/want the background logo of C/C++, you can download it in the **Packages** section <br />
