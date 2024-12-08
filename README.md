@@ -36,4 +36,4 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
 
 # 📂Packages
  moved to the official website:
-https://seba495g.github.io/Quantum-Web/
+https://seba495g.github.io/Quantum-Web/download.html
