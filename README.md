@@ -20,7 +20,7 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
 # ❔ Help
 
   # How to program
-   you have your index or i__ <br />
+   you have your coding space at quantum's compiler, <br />
    start by typing *&gitport quaio.qh* which <br />
    makes coding possible, think like <stdio.h>. <br />
    qua:out >> text, will print out the text after the '>' <br />
@@ -31,7 +31,8 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
    you can just use [Quantum's compiler](https://seba495g.github.io/Quantum-Web/compiler.html)<br />
    
   # How to use
-   i__ is your coding space <br />
+   Go to the official website, go to <br />
+compiler, and code there
 
 
 # 📂Packages
