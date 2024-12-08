@@ -8,6 +8,8 @@ Quantum is made with JavaScript and TypeScript <br />
 Quantum originaly would've been a tool for Chromebooks <br />
 if you need/want the background logo of C/C++, you can download it in the **Packages** section <br />
 
+# Update log
+ • webopen >> which creates a new tab with the url
 
 # Quantum info
  The name Quantum is inspired by Quantum Computer which also is the reason its called Quantum <br />
