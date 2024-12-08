@@ -27,8 +27,8 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
    qua:in >> text, it will create a input with the text after the '>' <br />
    
   # How to setup
-   get a JavaScript compiler<br />
-   i guess<br />
+   you dont need a JavaScript compiler or anything<br />
+   you can just use [Quantum's compiler](https://seba495g.github.io/Quantum-Web/compiler.html)<br />
    
   # How to use
    i__ is your coding space <br />
