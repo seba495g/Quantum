@@ -21,7 +21,7 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
 
   # How to program
    you have your index or i__ <br />
-   start by typing *@i quadio.q* which <br />
+   start by typing *&gitport quaio.qh* which <br />
    makes coding possible, think like <stdio.h>. <br />
    qua:out >> text, will print out the text after the '>' <br />
    qua:in >> text, it will create a input with the text after the '>' <br />
