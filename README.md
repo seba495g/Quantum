@@ -38,6 +38,9 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
      • compiler, and code there
 
 
-# 📂Packages
- moved to the official website:
-https://seba495g.github.io/Quantum-Web/download.html
+# Quantum-Lab
+ • Get a little more features with Quantum Lab
+ • Its also free
+click under to get Quantum-Lab
+![I__4_-removebg-preview (1) (1)](https://github.com/user-attachments/assets/ffacef00-e93d-465f-af2d-87b05a7205df) -still in dev
+
