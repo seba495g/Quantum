@@ -35,12 +35,14 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
    
   **How to use**<br />
      • Go to the official website, go to <br />
-     • compiler, and code there
+     • compiler, and code there<br />
 
 
-# Quantum-Lab
- • Get a little more features with Quantum Lab
- • Its also free
-click under to get Quantum-Lab
-![I__4_-removebg-preview (1) (1)](https://github.com/user-attachments/assets/ffacef00-e93d-465f-af2d-87b05a7205df) -still in dev
+# Quantum-Lab<br />
+ • Get a little more features with Quantum Lab<br />
+ • Its also free<br />
+click under to get Quantum-Lab<br />
+![I__5_-removebg-preview_2_optimized](https://github.com/user-attachments/assets/5d16a081-10b4-4b70-a91d-a1d80fb8e928)
+
+ -still in dev
 
