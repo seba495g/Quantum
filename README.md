@@ -28,6 +28,8 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
      • qua:out >> text, will print out the text after the '>' <br />
      • qua:in >> text, it will create a input with the text after the '>' <br />
      • webopen >> text, it will open a new tab with the url after the '>', remember https:// <br />
+     • if statement, this is how it works, `if variable == value then run code` <br />
+     • variable, this is how it works, `int variable = value` or `int variable = q:in >> text` <br />
    
    **How to setup**<br />
      • you dont need a JavaScript compiler or anything<br />
