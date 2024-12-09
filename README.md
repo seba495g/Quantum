@@ -31,7 +31,7 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
    
    **How to setup**<br />
      • you dont need a JavaScript compiler or anything<br />
-     • you can just use [Quantum's compiler](https://seba495g.github.io/Quantum-Web/compiler.html)<br />
+     • you can just use [Quantum compiler](https://seba495g.github.io/Quantum-Web/compiler.html)<br />
    
   **How to use**<br />
      • Go to the official website, go to <br />
