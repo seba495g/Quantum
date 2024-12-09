@@ -16,9 +16,6 @@ if you need/want the background logo of C/C++, you can download it in the **Pack
  Quantum++ or Quantum# may come if the files get too long/too many <br />
  Quantum is not accosiated with C/C++, its inspired by C/C++ <br />
 
-# 📜Contributor(s)
- seba495g (github)<br />
-
 # ❔ Help
 
    **How to program**<br />
